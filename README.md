@@ -30,10 +30,8 @@
     </td>
   <td>
     <p align="center"> Tools and Others</p>
-    <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logo@2x.png" alt="nodejs" width="40" height="40"/> Git-SCM </a> 
+    <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logo@2x.png" alt="nodejs" width="40" height="40"/></a> 
       <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png" alt="express" width="40" height="40"/> </a> 
-      <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="express" width="40" height="40"/> </a> 
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   </td>
   </tr>
 </table>
