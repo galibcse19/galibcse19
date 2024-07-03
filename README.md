@@ -82,8 +82,8 @@
 ##  📚Summary
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galibcse19&theme=highcontrast" width="800"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=galibcse19&theme=highcontrast" width="420" height="240"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=galibcse19&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="galibcse19" width="420" height="250"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=galibcse19&theme=highcontrast" width="800" height="240"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=galibcse19&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="galibcse19" width="800"/>
 </div>
 <!--
 **galibcse19/galibcse19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
