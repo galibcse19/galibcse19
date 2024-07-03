@@ -71,7 +71,7 @@
 <hr/>
 [![HitCount](https://hits.dwyl.com/galibcse19/galibcse19.svg?style=flat-square)](http://hits.dwyl.com/galibcse19/galibcse19)
 
-
+[![HitCount](https://hits.dwyl.com/galibcse19/galibcse19.svg?style=flat-square&show=unique)](http://hits.dwyl.com/galibcse19/galibcse19)
 
 <!--
 **galibcse19/galibcse19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
