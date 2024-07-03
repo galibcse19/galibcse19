@@ -70,8 +70,7 @@
 </p>
 <hr/>
 
-[![Number of Profile Views](https://hits.dwyl.com/galibcse19/galibcse19.svg?style=flat-square&show=unique)](http://hits.dwyl.com/galibcse19/galibcse19)
-
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=galibcse19&label=Profile%20views&color=0e75b6&style=flat" alt="galibcse19" /></p>
 <!--
 **galibcse19/galibcse19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
