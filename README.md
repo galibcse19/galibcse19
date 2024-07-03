@@ -32,7 +32,7 @@
   </tr>
 </table>
 <hr/>
-<h3>AI(Artificial intelligence) Base Skilled</h3>
+<h3>AI(Artificial intelligence) Base Skilles</h3>
 <ul>
   <li>ML Algorithm 
     <ol type="A">
@@ -50,7 +50,17 @@
   <li>Seaborn</li>
   <li>Mathplotlib</li>
 </ul>
-</hr>
+<hr/>
+
+- 🌱 I’m currently working some MERN Stack Related Projects
+
+- 💬 Ask me about **Html, CSS, Tailwind, JavaScript, React, Node Js, MongoDB, Express js**
+
+- 📫 How to reach me **mrgalib40@gmail.com**
+
+- 📄 Know about my experiences [Resume]()
+
+<hr/>
 
 
 
