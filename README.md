@@ -69,9 +69,8 @@
 <a href="https://t.me/galibcse19" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="galibcse19" height="36" width="40" /></a>
 </p>
 <hr/>
-[![HitCount](https://hits.dwyl.com/galibcse19/galibcse19.svg?style=flat-square)](http://hits.dwyl.com/galibcse19/galibcse19)
 
-[![HitCount](https://hits.dwyl.com/galibcse19/galibcse19.svg?style=flat-square&show=unique)](http://hits.dwyl.com/galibcse19/galibcse19)
+[![Number of Profile Views](https://hits.dwyl.com/galibcse19/galibcse19.svg?style=flat-square&show=unique)](http://hits.dwyl.com/galibcse19/galibcse19)
 
 <!--
 **galibcse19/galibcse19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
