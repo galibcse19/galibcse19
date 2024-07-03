@@ -1,7 +1,7 @@
 ![logo](https://github.com/galibcse19/galibcse19/blob/main/galib-github-banner.png)
 <h3></h3> 
-<p align="center">
-Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="" width=40px>
+<p align="center">Hi
+<!-- Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="" width=40px> -->
 </p>
 <h4 align="center">Looking for a Developer??</h4>
 <h1 align="center">🏆Abdulla Al Galib🏆</h1>
