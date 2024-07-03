@@ -10,6 +10,7 @@
 <p align="left">🚀 Full-Stack Developer | MERN Specialist | 10+ Dynamic Full-Stack Projects | Frontend Expert | Ready for the Next Challenge! Check out my GitHub to see a showcase of innovation and creativity. Let’s connect and discuss how I can drive your company's growth through impactful contributions. 🌟💻 #FullStack #MERNStack #HireMe</p>
 <hr/>
 <h3 align="center">My Skills:</h3>
+<h4 align="center">Here are some of my skills on which I have been working on for the past 1.5 years.</h4>
 <table align="center">
   <tr>
     <td>
@@ -31,7 +32,6 @@
   <td>
     <p align="center"> Tools and Others</p>
     <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logo@2x.png" alt="nodejs" width="40" height="40"/></a> 
-      <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png" alt="express" width="40" height="40"/> </a> 
   </td>
   </tr>
 </table>
