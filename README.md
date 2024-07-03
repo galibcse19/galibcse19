@@ -32,6 +32,15 @@
   </tr>
 </table>
 <hr/>
+<h3>AI(Artificial intelligence) Base Skilled</h3>
+<ul>
+  <li>ML Algorithm </li>
+  <li>Jupyter Notebooks</li>
+  <li>Google Colab</li>
+  <li>Pandas</li>
+  <li>Seaborn</li>
+  <li>Mathplotlib</li>
+</ul>
 
 
 
