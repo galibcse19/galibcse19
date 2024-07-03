@@ -79,13 +79,7 @@
   </a>
 </div>
 <hr/>
-##  📚Summary
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galibcse19&theme=highcontrast" width="800"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=galibcse19&theme=highcontrast" width="800" height="240"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=galibcse19&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="galibcse19" width="800" height="240" />
-</div>
-
+ 
 ##  📚Summary
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galibcse19&theme=highcontrast" width="900"/>
