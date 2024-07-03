@@ -60,6 +60,7 @@
 
 - 📄 Know about my experiences [Resume]()
 
+</hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="www.linkedin.com/in/abdulla-al-galib-10614422a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galibcse19" height="30" width="40" /></a>
