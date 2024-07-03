@@ -35,13 +35,18 @@
 <h3>AI(Artificial intelligence) Base Skilled</h3>
 <ul>
   <li>ML Algorithm 
-    <ol>
+    <ol type="A">
       <li>https://github.com/galibcse19/greenhouse_gas_inventory_data</li>
+      <li>https://github.com/galibcse19/survey-lung-cancer</li>
+      <li>https://github.com/galibcse19/Random_Forest_Project_ML</li>
+      <li>https://github.com/galibcse19/Decision_Tree_2_ML</li>
+      <li>https://github.com/galibcse19/Decision_Tree_2_ML</li>
     </ol>
   </li>
   <li>Jupyter Notebooks</li>
   <li>Google Colab</li>
   <li>Pandas</li>
+  <li>NumPy</li>
   <li>Seaborn</li>
   <li>Mathplotlib</li>
 </ul>
