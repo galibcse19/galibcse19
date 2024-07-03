@@ -1,5 +1,11 @@
-## Hi there 👋
 ![logo](https://github.com/galibcse19/galibcse19/blob/main/galib-github-banner.png)
+<h3></h3> 
+<p align="center">
+Hi<img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="" width=40px>
+</p>
+<h4 align="center">Looking for a Developer??</h4>
+<h1 align="center">🏆Abdulla Al Galib🏆</h1>
+<h3 align="center">Full-Stack Web Developer(MERN) From Bangladesh</h3>
 <!--
 **galibcse19/galibcse19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
