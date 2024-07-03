@@ -60,6 +60,17 @@
 
 - 📄 Know about my experiences [Resume]()
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="www.linkedin.com/in/abdulla-al-galib-10614422a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galibcse19" height="30" width="40" /></a>
+  
+<a href="https://www.facebook.com/profile.php?id=100008785834676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="its_shojib.09" height="30" width="40" /></a>
+
+
+<a href="mailto:mrgalib40@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="galibcse19" height="30" width="40" /></a>
+ 
+<a href="https://t.me/galibcse19" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="galibcse19" height="36" width="40" /></a>
+</p>
 <hr/>
 
 
